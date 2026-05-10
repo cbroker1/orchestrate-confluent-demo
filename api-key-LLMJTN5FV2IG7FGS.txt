@@ -1,0 +1,19 @@
+=== Confluent Cloud API key ===
+
+API key:
+LLMJTN5FV2IG7FGS
+
+API secret:
+cfltA5E12RjjzdR4b3PT0b2aHIfE/+Qs05lufsUEi3N4uoh2vZoo75U+3K/YaTjQ
+
+Resource scope:
+Kafka cluster
+
+Environment:
+env-p62vvm
+
+Resource:
+lkc-yz10xo
+
+Endpoint:
+https://pkc-921jm.us-east-2.aws.confluent.cloud:443
